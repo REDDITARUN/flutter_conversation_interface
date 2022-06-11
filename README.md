@@ -1,2 +1,5 @@
 # flutter_conversation_interface
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+***Screenshots***
+![This is an image][(https://github.com/REDDITARUN/flutter_conversation_interface/blob/main/Screenshot_DialogBoxPage.jpeg)]
+![This is an image][https://github.com/REDDITARUN/flutter_conversation_interface/blob/main/Screenshot_HomePage.jpeg]
+![This is an image][https://github.com/REDDITARUN/flutter_conversation_interface/blob/main/Screenshot_HomePage_2.jpeg]
